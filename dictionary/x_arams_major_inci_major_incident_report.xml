@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Major Incident Report" max_length="40" name="x_arams_major_inci_major_incident_report" type="collection">
+        <element label="Account of incident" max_length="4000" name="account_of_incident" type="string"/>
+        <element label="Additional information" max_length="4000" name="additional_information" type="string"/>
+        <element label="Authored by" max_length="32" name="authored_by" reference="sys_user" type="reference"/>
+        <element label="Business service" max_length="32" name="business_service" reference="cmdb_ci_service" type="reference"/>
+        <element label="Cause description" max_length="4000" name="cause_description" type="string"/>
+        <element label="Configuration item" max_length="32" name="configuration_item" reference="cmdb_ci" type="reference"/>
+        <element label="Impact description" max_length="4000" name="impact_description" type="string"/>
+        <element label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element label="Outage description" max_length="4000" name="outage_description" type="string"/>
+        <element label="Reporting and information" max_length="4000" name="reporting_and_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Report name" max_length="100" name="report_name" type="string"/>
+        <element label="Short term solution" max_length="4000" name="short_term_solution" type="string"/>
+        <index name="index">
+            <element name="authored_by"/>
+        </index>
+        <index name="index2">
+            <element name="configuration_item"/>
+        </index>
+        <index name="index3">
+            <element name="business_service"/>
+        </index>
+        <index name="index4">
+            <element name="incident"/>
+        </index>
+    </element>
+</database>

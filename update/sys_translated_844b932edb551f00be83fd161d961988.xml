@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Major Incident Rapport</label>
+        <language>sv</language>
+        <name>sys_ui_action</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>ojest</sys_created_by>
+        <sys_created_on>2018-04-09 12:06:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>844b932edb551f00be83fd161d961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Major Incident Rapport</sys_name>
+        <sys_package display_value="Major Incident Report" source="x_arams_major_inci">fe389e62db911f00be83fd161d961951</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Major Incident Report">fe389e62db911f00be83fd161d961951</sys_scope>
+        <sys_update_name>sys_translated_844b932edb551f00be83fd161d961988</sys_update_name>
+        <sys_updated_by>ojest</sys_updated_by>
+        <sys_updated_on>2018-04-09 12:06:47</sys_updated_on>
+        <value>Major Incident Report</value>
+    </sys_translated>
+</record_update>

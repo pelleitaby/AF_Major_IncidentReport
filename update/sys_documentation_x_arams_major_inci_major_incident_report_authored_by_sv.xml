@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="authored_by" label="Författad av" language="sv" table="x_arams_major_inci_major_incident_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>authored_by</element>
+            <help/>
+            <hint/>
+            <label>Författad av</label>
+            <language>sv</language>
+            <name>x_arams_major_inci_major_incident_report</name>
+            <plural>Författad av</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 08:36:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>234b6e26dbd11f00be83fd161d9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Författad av</sys_name>
+            <sys_package display_value="Major Incident Report" source="x_arams_major_inci">fe389e62db911f00be83fd161d961951</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Major Incident Report">fe389e62db911f00be83fd161d961951</sys_scope>
+            <sys_update_name>sys_documentation_x_arams_major_inci_major_incident_report_authored_by_sv</sys_update_name>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:36:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

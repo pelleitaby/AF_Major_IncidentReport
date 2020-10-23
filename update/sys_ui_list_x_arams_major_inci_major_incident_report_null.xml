@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_arams_major_inci_major_incident_report" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>report_name</element>
+            <list_id display_value="x_arams_major_inci_major_incident_report" element="NULL" name="x_arams_major_inci_major_incident_report" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">048d4b22db551f00be83fd161d961902</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_id>8c8d4b22db551f00be83fd161d961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incident</element>
+            <list_id display_value="x_arams_major_inci_major_incident_report" element="NULL" name="x_arams_major_inci_major_incident_report" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">048d4b22db551f00be83fd161d961902</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_id>048d4b22db551f00be83fd161d961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>configuration_item</element>
+            <list_id display_value="x_arams_major_inci_major_incident_report" element="NULL" name="x_arams_major_inci_major_incident_report" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">048d4b22db551f00be83fd161d961902</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_id>848d4b22db551f00be83fd161d961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_service</element>
+            <list_id display_value="x_arams_major_inci_major_incident_report" element="NULL" name="x_arams_major_inci_major_incident_report" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">048d4b22db551f00be83fd161d961902</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_id>088d4b22db551f00be83fd161d961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>authored_by</element>
+            <list_id display_value="x_arams_major_inci_major_incident_report" element="NULL" name="x_arams_major_inci_major_incident_report" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">048d4b22db551f00be83fd161d961902</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_id>888d4b22db551f00be83fd161d961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_arams_major_inci_major_incident_report</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 11:06:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>048d4b22db551f00be83fd161d961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_arams_major_inci_major_incident_report</sys_name>
+            <sys_package display_value="Major Incident Report" source="x_arams_major_inci">fe389e62db911f00be83fd161d961951</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Major Incident Report">fe389e62db911f00be83fd161d961951</sys_scope>
+            <sys_update_name>sys_ui_list_x_arams_major_inci_major_incident_report_null</sys_update_name>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:06:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

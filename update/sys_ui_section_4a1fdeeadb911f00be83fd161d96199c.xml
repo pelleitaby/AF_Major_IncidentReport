@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4a1fdeeadb911f00be83fd161d96199c" sys_domain="global" table="x_arams_major_inci_major_incident_report" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>d853032adb151f00be83fd161d9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <text>Report information</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>dc53032adb151f00be83fd161d9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <text>Incident information</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>d053032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <text>Major Incident report</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d853032adb151f00be83fd161d9619f6</element>
+            <position>0</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9453032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1853032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>report_name</element>
+            <position>2</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9853032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1c53032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>authored_by</element>
+            <position>4</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9c53032adb151f00be83fd161d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1053032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dc53032adb151f00be83fd161d9619f6</element>
+            <position>6</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9053032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1453032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident</element>
+            <position>8</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9453032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident.sys_created_on</element>
+            <position>9</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1853032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9853032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident.business_service</element>
+            <position>11</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1c53032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident.cmdb_ci</element>
+            <position>12</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9c53032adb151f00be83fd161d9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1053032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident.short_description</element>
+            <position>14</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9053032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident.description</element>
+            <position>15</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1453032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d053032adb151f00be83fd161d9619f7</element>
+            <position>16</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9453032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_of_incident</element>
+            <position>17</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1853032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reporting_and_information</element>
+            <position>18</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9853032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact_description</element>
+            <position>19</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1c53032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outage_description</element>
+            <position>20</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9c53032adb151f00be83fd161d9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cause_description</element>
+            <position>21</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1053032adb151f00be83fd161d9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_term_solution</element>
+            <position>22</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>9053032adb151f00be83fd161d9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_information</element>
+            <position>23</position>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 10:21:39</sys_created_on>
+            <sys_id>1453032adb151f00be83fd161d9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_arams_major_inci_major_incident_report" sys_domain="global" view="Default view">4a1fdeeadb911f00be83fd161d96199c</sys_ui_section>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 10:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_arams_major_inci_major_incident_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ojest</sys_created_by>
+            <sys_created_on>2018-04-09 07:43:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>4a1fdeeadb911f00be83fd161d96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_arams_major_inci_major_incident_report</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Major Incident Report" source="x_arams_major_inci">fe389e62db911f00be83fd161d961951</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Major Incident Report">fe389e62db911f00be83fd161d961951</sys_scope>
+            <sys_update_name>sys_ui_section_4a1fdeeadb911f00be83fd161d96199c</sys_update_name>
+            <sys_updated_by>ojest</sys_updated_by>
+            <sys_updated_on>2018-04-09 07:43:24</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
